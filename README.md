@@ -1,6 +1,6 @@
-# c-pl-github-classroom-template
+# 3-for-a-while
 
-Programming Exercises on ....
+Programming Exercises on `for`, `while`, and `do-while` Loops.
 
 ## 你的任务
 
